@@ -1,6 +1,8 @@
 # Zazicki
 
-TODO: Write a gem description
+Drop-In Gem to enable code reloading of custom Middleware.
+
+See: http://stackoverflow.com/questions/20874222/reloading-rails-middleware-without-restarting-the-server-in-development/21323432
 
 ## Installation
 
