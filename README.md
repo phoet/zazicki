@@ -8,7 +8,7 @@ See: http://stackoverflow.com/questions/20874222/reloading-rails-middleware-with
 
 Add this line to your application's Gemfile:
 
-    gem 'zazicki'
+    gem 'zazicki', group :development
 
 And then execute:
 
@@ -17,10 +17,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install zazicki
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
